@@ -3,7 +3,7 @@ This is a project centered towards applying machine learning and time series alg
 
 ### Project Schedule.
 
-|Step|Desctiption|Tags|
+|Step|Description|Tags|
 |:-:|:-:|:-:|
 |Problem Framing| A text file outlining the statement of the the problem.|![](https://camo.githubusercontent.com/430f01d81f0c5ecce47acd6e06bc0f95a700a0f6/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4769746875622d626c61636b)|
 |[Data Sourcing](https://github.com/Rohianon/PurpleAirCaptsoneProject./tree/master/Data)| Data was collected by Purple Air device from some of the mining sites in Kenya. About 94 csv files were used for the data storage.|![x](https://camo.githubusercontent.com/8eca8a42e5a6a429d93d51ac3c2c9d10061dd658/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d507974686f6e2d677265656e)|
